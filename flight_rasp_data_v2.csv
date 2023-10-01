@@ -1,0 +1,5 @@
+i_id,departure_terminal,checkin_terminal,airline_grouped_hash,cco_hash,flt_hash,t_st,m_city_rus1,m_city_rus2,config
+8634957.0,B,B,7bac920cc30511dfb81ca2242b293990,f7adf0ba18d705092fa0a1e2f2c0bafb,6a2feef8ed6a9fe76d6b3f30f02150b4,2023-07-08 00:05:00,Москва,Челябинск,156
+8634958.0,C,C,3ab7806fac7c2de105704d4ff29dd581,3ab7806fac7c2de105704d4ff29dd581,58d4d1e7b1e97b258c9ed0b37e02d087,2023-07-08 00:05:00,Москва,Шарм-эль-Шейх,202
+8634961.0,B,B,7bac920cc30511dfb81ca2242b293990,f7adf0ba18d705092fa0a1e2f2c0bafb,471c75ee6643a10934502bdafee198fb,2023-07-08 00:10:00,Москва,Горно-Алтайск,158
+8634962.0,B,B,7bac920cc30511dfb81ca2242b293990,f7adf0ba18d705092fa0a1e2f2c0bafb,9adeb82fffb5444e81fa0ce8ad8afe7a,2023-07-08 00:10:00,Москва,Казань,156
